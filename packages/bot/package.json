@@ -32,7 +32,7 @@
     "di-xxl": "~1.2.1",
     "dotenv": "^8.0.0",
     "eventhub-xxl": "2.3.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mime-types": "^2.1.24",
     "p-retry": "4.1.0",
     "puppeteer": "^1.18.1",
