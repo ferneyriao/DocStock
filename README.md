@@ -1,5 +1,3 @@
-This project is an experiment where I wrote a chess bot for [chess.com](https://chess.com/live). You can
-checkout my article about this project [here](TODO).
 
 # Install
 
